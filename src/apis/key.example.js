@@ -1,0 +1,3 @@
+const YOUTUBE_API_KEY = 'YOUR KEY HERE';
+
+export {YOUTUBE_API_KEY}
